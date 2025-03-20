@@ -1,2 +1,4 @@
 # AnalsLex
-Atividade analisador léxico
+Objetivo = Desenvolver analisador léxico simples com Flex para reconhecer alguns padrões básicos
+
+1- 
